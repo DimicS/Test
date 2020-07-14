@@ -6,6 +6,7 @@
 .venv
 env/
 venv/
+img/
 ENV/
 env.bak/
 venv.bak/
